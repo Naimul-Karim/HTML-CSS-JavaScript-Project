@@ -72,7 +72,7 @@
         background-color: #d1d3d8;
      }
 
-     @media (max-width:956px) {
+     @media (max-width:800px) {
         .board{
             display:flex;
             flex-direction: column;
